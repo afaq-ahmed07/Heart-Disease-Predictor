@@ -9,7 +9,10 @@ This Python project utilizes three powerful algorithms—Linear Regression, Logi
 - Interactive Tkinter GUI for easy visualization.
 - Utilizes popular Python libraries like scikit-learn, matplotlib, and seaborn.
 - Evaluate model performance and make informed decisions.
-  ![Screenshot 2024-01-26 161909](https://github.com/afaq-ahmed07/Heart-Disease-Predictor/assets/118903041/bc455182-c42a-4969-9d15-2c96e4bedd3f)
+
+![heart_disease](https://github.com/afaq-ahmed07/Heart-Disease-Predictor/assets/118903041/2d08948d-9a33-41a1-9438-e87a08c3764a)
+![Screenshot 2024-01-26 161818](https://github.com/afaq-ahmed07/Heart-Disease-Predictor/assets/118903041/47851dd8-67f5-4d36-82d4-c38a9d1a383d)
+
 
 
 👩‍💻 **How to Use:**
